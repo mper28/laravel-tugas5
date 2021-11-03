@@ -1,0 +1,10 @@
+Tambahan :
+menambahkan tittle diatas
+Menambahkan  warna header card
+Menambahkan  warna backround card
+Mengatur warna border card
+Mengubah tampilan
+Mengatur size tulisan pada deskripsi
+Menambahkan dan mengatur menjadi horizontal
+mengganti desain
+
