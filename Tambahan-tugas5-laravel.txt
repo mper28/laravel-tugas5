@@ -1,6 +1,0 @@
-Tambahan :
-1. Memberi warna header card
-2. Memberi warna backround card
-3. Mengatur warna border card
-4. Mengubah tampilan deskripsi friend pada show.blade.php menjadi card
-5. Mengatur size tulisan pada deskripsi
